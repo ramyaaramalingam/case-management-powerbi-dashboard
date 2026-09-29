@@ -75,6 +75,11 @@ Provides detailed analysis of:
 The dashboard provides an interactive view of case management data, allowing users to monitor case volume, status, aging, workload, and data quality through Power BI visualizations and filters.
 
 The project demonstrates an end-to-end reporting workflow from data preparation and validation to dashboard development and analysis.
+## Power BI File
+
+The complete Power BI dashboard file is available in this repository:
+
+[Download the Power BI Dashboard](./Case_Management_Quality_Analysis_Dashboard.pbix)
 ## Dashboard Screenshots
 
 ### Case Management Overview
