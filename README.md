@@ -58,3 +58,15 @@ Provides detailed analysis of:
 - Data Visualization
 - Data Validation
 - Data Quality Analysis
+## Skills Demonstrated
+
+- Data preparation and transformation
+- Data quality validation
+- Business rule validation
+- Case aging analysis
+- Interactive dashboard development
+- KPI and metric reporting
+- Data visualization
+- Operational reporting
+- Power BI filtering and slicers
+- Power Query data transformation
