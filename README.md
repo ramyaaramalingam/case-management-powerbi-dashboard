@@ -70,3 +70,39 @@ Provides detailed analysis of:
 - Operational reporting
 - Power BI filtering and slicers
 - Power Query data transformation
+## Project Outcome
+
+The dashboard provides an interactive view of case management data, allowing users to monitor case volume, status, aging, workload, and data quality through Power BI visualizations and filters.
+
+The project demonstrates an end-to-end reporting workflow from data preparation and validation to dashboard development and analysis.
+## Dashboard Screenshots
+
+### Case Management Overview
+
+<img width="1312" height="737" alt="Case Management Dashboard Png 1" src="https://github.com/user-attachments/assets/900d2720-4427-482a-a3e5-369f74e575ae" />
+
+
+### Case Management Analysis
+
+<img width="1320" height="749" alt="Case Management Dashboard Png 2" src="https://github.com/user-attachments/assets/12bedd37-1760-4f19-a1af-82fac987dd3c" />
+
+## Project Structure
+
+```text
+case-management-powerbi-dashboard/
+│
+├── images/
+│   ├── case-management-overview.png
+│   └── case-management-analysis.png
+│
+├── Case Management Quality Analysis Dashboard.pbix
+└── README.md
+
+## Portfolio Note
+
+This project was created as a personal portfolio project to demonstrate practical Power BI, data quality, and reporting skills using a case management dataset.
+
+## Author
+
+Ramya Ramalingam
+
