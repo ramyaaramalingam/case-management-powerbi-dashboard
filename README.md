@@ -50,3 +50,11 @@ Provides detailed analysis of:
 - Program
 - Region
 - Data quality
+## Tools & Technologies
+
+- Microsoft Power BI Desktop
+- Power Query
+- DAX
+- Data Visualization
+- Data Validation
+- Data Quality Analysis
