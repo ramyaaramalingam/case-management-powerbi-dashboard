@@ -20,3 +20,16 @@ This dashboard provides a centralized view of key case management metrics to sup
 - Data quality monitoring
 - Interactive filters and slicers for case analysis
 - Power BI cards, charts, and visual reports
+## Data Preparation & Quality
+
+The dataset was prepared using Power Query before building the dashboard.
+
+Key data preparation activities included:
+
+- Reviewing and validating source data
+- Assigning appropriate data types
+- Creating calculated columns for case aging
+- Creating aging groups to categorize cases by age
+- Creating an aging group sort column for chronological reporting
+- Identifying and monitoring data quality issues
+- Preparing the data for Power BI visualization and analysis
