@@ -33,3 +33,20 @@ Key data preparation activities included:
 - Creating an aging group sort column for chronological reporting
 - Identifying and monitoring data quality issues
 - Preparing the data for Power BI visualization and analysis
+## Dashboard Pages
+
+### Page 1 — Case Management Overview
+
+Provides a high-level view of case volume and key case management metrics.
+
+### Page 2 — Case Management Analysis
+
+Provides detailed analysis of:
+
+- Case status
+- Case aging
+- Assigned team workload
+- Priority
+- Program
+- Region
+- Data quality
