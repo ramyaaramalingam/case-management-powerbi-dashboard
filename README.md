@@ -95,7 +95,7 @@ case-management-powerbi-dashboard/
 │   ├── case-management-overview.png
 │   └── case-management-analysis.png
 │
-├── Case Management Quality Analysis Dashboard.pbix
+├── Case_Management_Quality_Analysis_Dashboard.pbix
 └── README.md
 
 ## Portfolio Note
